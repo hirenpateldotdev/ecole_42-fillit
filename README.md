@@ -1,6 +1,6 @@
 # ecole_42-fillit
 
-Read 'subject.pdf'
+Read `subject.pdf`
 
 Display the smallest possible square with a given list of tetriminos. The result should be the first possible solution when placing them recursively giving top left (top priority then left).
 
